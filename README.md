@@ -68,13 +68,13 @@ yarn preview
 まずは公式ドキュメントを参考にセットアップ
 
 ```bash
-npx nuxi init nuxt3_tailwind
+npx nuxi init nuxt3_tailwind_starter
 ```
 
 インストールdirに入る
 
 ```bash
-cd nuxt3_tailwind
+cd nuxt3_tailwind_starter
 ```
 
 依存パッケージ類をインストール
