@@ -2,8 +2,10 @@
 
 ## これはなに
 
-Nuxt3 RC + Tailwind CSS + TypeScript が使えるもっともシンプルな環境を構築するものです。
+Nuxt3 RC + Tailwind CSS + TypeScript が使えるもっともシンプルな環境を構築するものです。  
+`pages/index.vue` と `pages/about.vue` の間に張られたリンクを行き来するだけのシンプルな構成となっています。  
 
+<img src="https://user-images.githubusercontent.com/102408514/167263575-5ac15cee-8780-478e-9ae9-49252638ba36.jpg" width="50%"/>
 
 - 公式情報
   - [Nuxt 3 Quick Start](https://v3.nuxtjs.org/getting-started/quick-start/)
