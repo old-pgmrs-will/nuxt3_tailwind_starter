@@ -11,6 +11,9 @@ Nuxt3 RC + Tailwind CSS + TypeScript が使えるもっともシンプルな環�
   - [Nuxt 3 Quick Start](https://v3.nuxtjs.org/getting-started/quick-start/)
   - [Get started with Tailwind CSS](https://tailwindcss.com/docs/installation)
 
+- Tailwind CHEAT SHEET
+  - [https://nerdcave.com/tailwind-cheat-sheet](https://nerdcave.com/tailwind-cheat-sheet)
+
 - 動作環境
   - node.js `v16.14.2`
   - yarn `v1.22.18`
