@@ -1,4 +1,4 @@
-# Nuxt3 RC + Tailwind CSS
+# Nuxt3 RC + Tailwind CSS : Starter kit.
 
 ## これはなに
 
