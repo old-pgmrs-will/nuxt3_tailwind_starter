@@ -18,6 +18,13 @@ Nuxt3 RC + Tailwind CSS + TypeScript が使えるもっともシンプルな環�
 
 ## セットアップ
 
+- gitリポジトリから取得
+
+```bash
+git clone https://github.com/old-pgmrs-will/nuxt3_tailwind_starter
+cd nuxt3_tailwind_starter
+```
+
 - モジュール・インストール
 
 ```bash
