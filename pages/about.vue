@@ -4,7 +4,7 @@
     <!-- クラス値 "contents" は assets/css/tailwind.css で @apply している -->
     <div class="container" v-bind:class="containerClass">
       <h1 class="text-white font-bold text-4xl text-center">about.vue</h1>
-      <h2 class="text-white font-bold text-2xl text-center mt-8">Hello, Nuxt3 + Tailwind CSS :)</h2>
+      <h2 class="text-white font-bold text-2xl text-center mt-8">Hello, Nuxt3 + Tailwind CSS + TypeScript :)</h2>
       <p class="mt-4 text-slate-300 text-xl text-center">Message: {{ message }}</p>
       <div class="nav-link mt-8">
         <NuxtLink to="/" class="text-center">
