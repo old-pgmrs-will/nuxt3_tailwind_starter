@@ -1,11 +1,15 @@
-# Nuxt3 RC + Tailwind CSS : Starter kit.
+# Nuxt3 RC + Tailwind CSS + TypeScript : Starter kit.
 
 ## これはなに
 
-Nuxt3 RC + Tailwind CSS + TypeScript が使えるもっともシンプルな環境を構築するものです。  
-`pages/index.vue` と `pages/about.vue` の間に張られたリンクを行き来するだけのシンプルな構成となっています。  
+- Nuxt3 RC + Tailwind CSS + TypeScript が使えるもっともシンプルな環境を構築するもの
+- `pages/index.vue` と `pages/about.vue` の間に張られたリンクを行き来するだけのシンプルな構成
 
 <img src="https://user-images.githubusercontent.com/102408514/167263575-5ac15cee-8780-478e-9ae9-49252638ba36.jpg" width="50%"/>
+
+- 想定使用者層
+  - webプログラミング初学者
+  - HTML + CSS + JavaScript + jQueryからステップアップしたいが、何から手を付けて良いか迷っている方
 
 - 公式情報
   - [Nuxt 3 Quick Start](https://v3.nuxtjs.org/getting-started/quick-start/)
