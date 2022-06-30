@@ -8,7 +8,7 @@
       <p class="mt-4 text-slate-300 text-xl text-center">Message: {{ message }}</p>
       <div class="nav-link mt-8">
         <NuxtLink to="/" class="text-center">
-          <p class="text-blue-900 underline">link to: pages/index.vue</p>
+          <p class="text-blue-900 underline font-bold">link to: pages/index.vue</p>
         </NuxtLink>
       </div>
     </div>

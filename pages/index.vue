@@ -14,7 +14,7 @@
 
       <div class="nav-link mt-8">
         <NuxtLink to="/about" class="text-center">
-          <p class="text-blue-900 underline">link to: pages/about.vue</p>
+          <p class="text-blue-900 underline font-bold">link to: pages/about.vue</p>
         </NuxtLink>
       </div>
     </div>
